@@ -1,0 +1,4 @@
+https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+
+docker build -t ubuntu-hydra .
+docker run -it ubuntu-hydra
